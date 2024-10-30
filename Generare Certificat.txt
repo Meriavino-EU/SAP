@@ -1,0 +1,19 @@
+Step-by-Step Guide: Creating, Installing, and Configuring SSL Certificate on Apache Server (VM)
+https://medium.com/@ravipatel.it/step-by-step-guide-creating-installing-and-configuring-ssl-certificate-on-apache-server-vm-7587193dbef6
+
+
+How to import your certificate to the browser and save a back-up copy
+https://www.wipo.int/pct-eservices/en/support/cert_import_backup_edge.html
+
+
+Certificate requirements
+https://learn.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-certificate-requirements#certificate-algorithms
+
+
+
+How to convert .crt cetificate file to .pfx
+https://stackoverflow.com/questions/9971464/how-to-convert-crt-cetificate-file-to-pfx
+
+
+
+https://sslinsights.com/fix-net-err-cert-authority-invalid-error-chrome/
